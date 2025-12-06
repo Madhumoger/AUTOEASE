@@ -1,10 +1,26 @@
 # AUTOEASE
 
-
-
 ## 📝 Description
+Designed to streamline and automate essential tasks, this system makes life easier and more efficient. Built with a modern tech stack, it offers features that simplify complex workflows and enhance productivity. Current capabilities include task automation, workflow management, and personalized user experiences. More updates and improvements are on the way as the platform continues to evolve.
 
-AUTOEASE is designed to streamline and automate essential tasks, making life easier and more efficient. Built with a modern tech stack, it offers features that simplify complex processes and enhance productivity. Although the full tech stack is not yet disclosed, current capabilities include task automation, workflow management, and personalized user experiences. More updates and improvements are on the way as the platform continues to evolve!
+## 🚀 Features
+- Task automation
+- Workflow management
+- Personalized user experiences
+- Responsive front-end templates
+- Static asset management (CSS/JS/Images)
+
+## 🛠 Tech Stack
+- **Backend:** Python (FastAPI recommended)
+- **Frontend Templates:** HTML, Bootstrap, CSS, JavaScript
+- **Templating Engine:** Jinja2
+- **Database / Storage:** (Optional) PostgreSQL / SQLite, AWS S3 for file storage
+- **Caching / Queues:** Redis, Celery / RQ (for background jobs)
+- **Infrastructure:** Docker, Kubernetes (optional)
+- **CI / CD:** GitHub Actions / GitLab CI
+- **Monitoring / Logging:** Sentry, Prometheus + Grafana
+- **Version Control:** GitHub
+
 
 ## 📁 Project Structure
 
